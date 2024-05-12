@@ -1,0 +1,60 @@
+E:\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe.config
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.exe
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.pdb
+E:\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe
+E:\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.pdb
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Dashboard.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.doctor.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Login.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.invoice.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.patient.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Properties.Resources.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Reporting.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.test.resources
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.csproj.GenerateResource.Cache
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\RdlCompile.cache
+E:\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\RdlCompile.compiled
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Dashboard.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.doctor.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Login.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.operatorDb.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.OpPatient.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.patient.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Properties.Resources.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Reporting.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.test.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.csproj.GenerateResource.Cache
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\RdlCompile.cache
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\RdlCompile.compiled
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe.config
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.pdb
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.exe
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.pdb
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.invoice.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.InvoiceOp.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.ReportingOp.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.backup.resources
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe.manifest
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.application
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.TrustInfo.xml
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.exe.manifest
+E:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.application
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\bin\Debug\Al shifa clinic lab.exe.config
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.exe
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.pdb
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.csprojResolveAssemblyReference.cache
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.backup.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Dashboard.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.doctor.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Login.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.invoice.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.InvoiceOp.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.operatorDb.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.OpPatient.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.patient.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Properties.Resources.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.Reporting.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.ReportingOp.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al_shifa_clinic_lab.test.resources
+D:\C# complete project\Al shifa clinic lab\Al shifa clinic lab\obj\Debug\Al shifa clinic lab.csproj.GenerateResource.Cache
